@@ -1,4 +1,4 @@
 # hello-world
-Hello World
+About Me
 
 IT Student, focusing on C# programming.
